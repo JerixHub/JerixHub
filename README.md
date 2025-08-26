@@ -82,9 +82,9 @@ A **mobile note-taking app** with support for calendar notes, secure info storag
 
 <div align="center">
 
-![Jeric's GitHub stats](https://github-readme-stats.vercel.app/api?username=jericcarillo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jericcarillo&layout=compact&theme=radical)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jericcarillo&theme=radical)](https://git.io/streak-stats)
+![Jeric's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerixhub&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerixhub&layout=compact&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerixhub&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
